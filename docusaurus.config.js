@@ -74,18 +74,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        // title: "ReactJS",
         logo: {
           alt: "Logo",
           src: "/img/logo.png",
         },
         items: [
-          // {
-          //   type: "docSidebar",
-          //   sidebarId: "sidebarDocsId",
-          //   position: "left",
-          //   label: "About VS System",
-          // },
           {
             to: "/docs/category/data-scientist-documentations",
             label: "Data Scientist",
